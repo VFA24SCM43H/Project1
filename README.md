@@ -171,3 +171,6 @@ While the current implementation is robust for many regression tasks, there are 
 Given more time, these challenges could be mitigated with additional numerical techniques and algorithmic improvements.
 
 ---
+Team Memebers-
+Ananth Krishna Vasireddy - A20585441
+Vishwashree Channaareddy Hanumanthareddy - A20556543
